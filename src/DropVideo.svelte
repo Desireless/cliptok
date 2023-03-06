@@ -17,7 +17,6 @@
         });
 
         dropzone.on("success", (file, response) => {
-            console.log("TODO BIEN, TODO CORRECTO");
 
             const { secure_url, public_id } = response;
 
@@ -44,8 +43,6 @@
             );
             videoTransformed.set(transformed_url);
 
-
-            console.log(response);
         });
 
         dropzone.on("error", (file, errorMessage) => {

@@ -112,9 +112,9 @@ function closeModal() {
 
   </div>
 
-  <footer class="flex justify-center items-center font-semibold">
+  <footer class="flex justify-center items-center font-semibold mt-1">
     <p>
-      Hecho con  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> Cloudinary</a> ⚡ para participar en la Hackaton de Midudev ❤
+      Hecho con  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> Cloudinary</a> para participar en la Hackaton de Midudev ❤
 
     </p>
   </footer>
